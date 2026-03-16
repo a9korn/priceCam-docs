@@ -14,7 +14,6 @@ Welcome to the official legal documentation for PriceCam mobile application.
 
 ## 📬 Contact
 
-For any legal questions, please contact:
-- Email: [a9korn@gmail.com](mailto:a9korn@gmail.com)
+For any legal questions, please contact: a9korn
 
 *Last Updated: March 16, 2026*
