@@ -24,7 +24,7 @@ In no event shall we, nor our directors, employees, partners, agents, suppliers,
 
 ## 4. Governing Law
 
-These Terms shall be governed and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of Country, without regard to its conflict of law provisions.
 
 ## 5. Changes
 
@@ -32,4 +32,4 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 6. Contact Us
 
-If you have any questions about these Terms, please contact us at [Your Contact Information].
+If you have any questions about these Terms, please contact me.
