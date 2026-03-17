@@ -29,4 +29,4 @@ We may update this Privacy Policy from time to time. If we make any material cha
 
 ## 6. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy, please contact me.
