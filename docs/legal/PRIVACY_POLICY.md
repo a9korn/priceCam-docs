@@ -1,6 +1,6 @@
 # Privacy Policy for PriceCam
 
-**Last Updated:** 2026-03-16
+**Last Updated:** 2026-03-15
 
 Welcome to PriceCam. This Privacy Policy explains how we collect, use, and disclose information about you when you use our mobile application.
 
