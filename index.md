@@ -16,4 +16,4 @@ Welcome to the official legal documentation for PriceCam mobile application.
 
 For any legal questions, please contact: a9korn
 
-*Last Updated: March 20, 2026*
+*Last Updated: March 15, 2026*
