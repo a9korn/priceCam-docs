@@ -1,6 +1,6 @@
 # Terms of Service for PriceCam
 
-**Last Updated:** 2026-03-16
+**Last Updated:** 2026-03-15
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the PriceCam mobile application (the "Service") operated by us.
 
